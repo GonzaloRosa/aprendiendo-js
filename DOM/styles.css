@@ -1,0 +1,11 @@
+.boton {
+    background-color: red;
+}
+
+.boton:hover {
+    background-color: yellow;
+}
+
+.boton-activo {
+    background-color: blueviolet;
+}
